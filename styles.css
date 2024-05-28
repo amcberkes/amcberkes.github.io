@@ -4903,3 +4903,22 @@ figcaption {
         flex-direction: column;
     }
 }
+.paper {
+    margin-bottom: 20px;
+}
+
+.paper-title {
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    margin: 20px 0 5px;
+}
+
+.authors {
+    margin: 5px 0;
+}
+
+.publication-info {
+    font-style: italic;
+    margin: 5px 0 15px;
+}
