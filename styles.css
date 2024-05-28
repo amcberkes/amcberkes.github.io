@@ -4922,3 +4922,9 @@ figcaption {
     font-style: italic;
     margin: 5px 0 15px;
 }
+
+.clients-image-three.resize-logo {
+    width: auto;
+    height: 40px;
+    /* Adjust the height to make the logos larger */
+}
