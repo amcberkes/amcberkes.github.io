@@ -5003,3 +5003,40 @@ figcaption {
     font-size: 14px;
     line-height: 1.6;
 }
+
+.academic {
+    padding: 20px 0;
+}
+
+.container-3 {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.centered-heading-2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.w-list-unstyled {
+    padding: 0;
+    list-style: none;
+}
+
+.list-item {
+    margin-bottom: 20px;
+}
+
+.list-item strong {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.list-item em {
+    display: block;
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 5px;
+}
