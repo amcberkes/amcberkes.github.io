@@ -5129,3 +5129,27 @@ figcaption {
     text-decoration: underline;
     /* Optional: Add underline on hover for better UX */
 }
+
+.hero-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-split {
+    flex: 1;
+}
+
+.hero-split img {
+    max-width: 100%;
+    height: auto;
+}
+
+.inline-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.inline-link:hover {
+    text-decoration: underline;
+}
