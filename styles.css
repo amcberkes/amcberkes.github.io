@@ -5095,3 +5095,16 @@ figcaption {
     text-decoration: underline;
     /* Underline on hover for clarity */
 }
+.hero-split a.no-line-break {
+    color: inherit;
+    /* Inherit the text color from the parent element */
+    text-decoration: none;
+    /* Remove the underline from the link */
+    white-space: nowrap;
+    /* Prevent the link text from breaking into a new line */
+}
+
+.hero-split a.no-line-break:hover {
+    text-decoration: underline;
+    /* Optionally add underline on hover for better UX */
+}
